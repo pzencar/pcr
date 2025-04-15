@@ -1,0 +1,1802 @@
+{
+    "Michael Neal": {
+        "name": "Michael Neal",
+        "pcr": 2723.340214756615,
+        "perfcap": 1.0,
+        "consistency": 0.99
+    },
+    "Nathaniel Harris": {
+        "name": "Nathaniel Harris",
+        "pcr": 2686.978812982238,
+        "perfcap": 0.98,
+        "consistency": 0.99
+    },
+    "James Ballard": {
+        "name": "James Ballard",
+        "pcr": 2649.030300124398,
+        "perfcap": 0.99,
+        "consistency": 0.93
+    },
+    "Vicki Marsh": {
+        "name": "Vicki Marsh",
+        "pcr": 2609.2972623205665,
+        "perfcap": 0.97,
+        "consistency": 0.93
+    },
+    "James Brown": {
+        "name": "James Brown",
+        "pcr": 2587.152820112396,
+        "perfcap": 0.95,
+        "consistency": 0.95
+    },
+    "Robert Stone": {
+        "name": "Robert Stone",
+        "pcr": 2577.988976024011,
+        "perfcap": 0.94,
+        "consistency": 0.96
+    },
+    "Kimberly Bailey": {
+        "name": "Kimberly Bailey",
+        "pcr": 2577.2490556860776,
+        "perfcap": 0.97,
+        "consistency": 0.9
+    },
+    "Douglas Johnson": {
+        "name": "Douglas Johnson",
+        "pcr": 2545.088020461032,
+        "perfcap": 0.93,
+        "consistency": 0.95
+    },
+    "Travis Underwood": {
+        "name": "Travis Underwood",
+        "pcr": 2541.655723831005,
+        "perfcap": 0.99,
+        "consistency": 0.83
+    },
+    "Shawn Brown": {
+        "name": "Shawn Brown",
+        "pcr": 2539.8119248332105,
+        "perfcap": 0.97,
+        "consistency": 0.87
+    },
+    "Brian Smith": {
+        "name": "Brian Smith",
+        "pcr": 2537.4522721616336,
+        "perfcap": 1.0,
+        "consistency": 0.81
+    },
+    "Mr. Christopher Johnson": {
+        "name": "Mr. Christopher Johnson",
+        "pcr": 2521.5395939955224,
+        "perfcap": 0.9,
+        "consistency": 0.99
+    },
+    "John Jones": {
+        "name": "John Jones",
+        "pcr": 2475.7143388675636,
+        "perfcap": 0.97,
+        "consistency": 0.8
+    },
+    "Robert Rogers": {
+        "name": "Robert Rogers",
+        "pcr": 2474.457583512735,
+        "perfcap": 0.98,
+        "consistency": 0.79
+    },
+    "Mr. Edward Hendricks DDS": {
+        "name": "Mr. Edward Hendricks DDS",
+        "pcr": 2472.280764730482,
+        "perfcap": 0.91,
+        "consistency": 0.93
+    },
+    "Amanda Garcia": {
+        "name": "Amanda Garcia",
+        "pcr": 2461.045081696479,
+        "perfcap": 0.87,
+        "consistency": 1.0
+    },
+    "John Lowe": {
+        "name": "John Lowe",
+        "pcr": 2437.421798006132,
+        "perfcap": 0.95,
+        "consistency": 0.83
+    },
+    "Christine Cook": {
+        "name": "Christine Cook",
+        "pcr": 2434.439813842545,
+        "perfcap": 0.98,
+        "consistency": 0.76
+    },
+    "Anthony Welch": {
+        "name": "Anthony Welch",
+        "pcr": 2428.8491778075127,
+        "perfcap": 0.98,
+        "consistency": 0.76
+    },
+    "Bernard Fisher": {
+        "name": "Bernard Fisher",
+        "pcr": 2425.326821421927,
+        "perfcap": 0.97,
+        "consistency": 0.79
+    },
+    "Kelly Harrison": {
+        "name": "Kelly Harrison",
+        "pcr": 2418.179895596961,
+        "perfcap": 0.89,
+        "consistency": 0.93
+    },
+    "Zachary Watson": {
+        "name": "Zachary Watson",
+        "pcr": 2390.8145686006287,
+        "perfcap": 0.89,
+        "consistency": 0.9
+    },
+    "Robert Marshall": {
+        "name": "Robert Marshall",
+        "pcr": 2383.7613478977714,
+        "perfcap": 0.84,
+        "consistency": 1.0
+    },
+    "Robin Craig": {
+        "name": "Robin Craig",
+        "pcr": 2380.8185540933155,
+        "perfcap": 0.85,
+        "consistency": 0.98
+    },
+    "Ariel Wilson": {
+        "name": "Ariel Wilson",
+        "pcr": 2380.652937821065,
+        "perfcap": 0.86,
+        "consistency": 0.96
+    },
+    "Ashley Nelson": {
+        "name": "Ashley Nelson",
+        "pcr": 2375.431922211602,
+        "perfcap": 1.0,
+        "consistency": 0.68
+    },
+    "Nicole Ellison": {
+        "name": "Nicole Ellison",
+        "pcr": 2365.6424783309194,
+        "perfcap": 0.87,
+        "consistency": 0.92
+    },
+    "Kathryn Moore": {
+        "name": "Kathryn Moore",
+        "pcr": 2343.4094898316835,
+        "perfcap": 0.95,
+        "consistency": 0.75
+    },
+    "Susan Johnson": {
+        "name": "Susan Johnson",
+        "pcr": 2327.5621229448607,
+        "perfcap": 0.94,
+        "consistency": 0.73
+    },
+    "Brian Glover": {
+        "name": "Brian Glover",
+        "pcr": 2324.058619566083,
+        "perfcap": 0.87,
+        "consistency": 0.89
+    },
+    "Mr. Michael Howard MD": {
+        "name": "Mr. Michael Howard MD",
+        "pcr": 2312.7122656541487,
+        "perfcap": 0.95,
+        "consistency": 0.73
+    },
+    "Helen Hunter": {
+        "name": "Helen Hunter",
+        "pcr": 2305.642235593386,
+        "perfcap": 0.96,
+        "consistency": 0.7
+    },
+    "Adam Shaw": {
+        "name": "Adam Shaw",
+        "pcr": 2305.3277043307885,
+        "perfcap": 0.94,
+        "consistency": 0.75
+    },
+    "Dustin Graham": {
+        "name": "Dustin Graham",
+        "pcr": 2293.9285449913846,
+        "perfcap": 0.88,
+        "consistency": 0.86
+    },
+    "Robert Williamson": {
+        "name": "Robert Williamson",
+        "pcr": 2276.9491988281625,
+        "perfcap": 1.0,
+        "consistency": 0.59
+    },
+    "Luis Clark": {
+        "name": "Luis Clark",
+        "pcr": 2270.9320620404155,
+        "perfcap": 0.85,
+        "consistency": 0.91
+    },
+    "Lisa Stanley": {
+        "name": "Lisa Stanley",
+        "pcr": 2269.684088090015,
+        "perfcap": 0.89,
+        "consistency": 0.81
+    },
+    "Carl Freeman": {
+        "name": "Carl Freeman",
+        "pcr": 2268.3972272892493,
+        "perfcap": 0.86,
+        "consistency": 0.88
+    },
+    "Peter Bell": {
+        "name": "Peter Bell",
+        "pcr": 2266.783092923505,
+        "perfcap": 0.95,
+        "consistency": 0.7
+    },
+    "James Gomez": {
+        "name": "James Gomez",
+        "pcr": 2264.9608828842647,
+        "perfcap": 0.95,
+        "consistency": 0.69
+    },
+    "Thomas Bradley": {
+        "name": "Thomas Bradley",
+        "pcr": 2261.90527288631,
+        "perfcap": 1.0,
+        "consistency": 0.61
+    },
+    "Alejandro Mejia": {
+        "name": "Alejandro Mejia",
+        "pcr": 2251.8432527562195,
+        "perfcap": 0.95,
+        "consistency": 0.73
+    },
+    "Edward Payne": {
+        "name": "Edward Payne",
+        "pcr": 2247.6186721343674,
+        "perfcap": 0.92,
+        "consistency": 0.72
+    },
+    "Steven Cochran": {
+        "name": "Steven Cochran",
+        "pcr": 2240.4358938368914,
+        "perfcap": 0.86,
+        "consistency": 0.87
+    },
+    "Mike Lowe": {
+        "name": "Mike Lowe",
+        "pcr": 2239.175195048056,
+        "perfcap": 0.85,
+        "consistency": 0.88
+    },
+    "Melvin Fuller": {
+        "name": "Melvin Fuller",
+        "pcr": 2238.788648621858,
+        "perfcap": 0.84,
+        "consistency": 0.89
+    },
+    "William Gomez": {
+        "name": "William Gomez",
+        "pcr": 2238.064392695164,
+        "perfcap": 0.81,
+        "consistency": 0.96
+    },
+    "Briana Navarro": {
+        "name": "Briana Navarro",
+        "pcr": 2237.4619866016224,
+        "perfcap": 0.98,
+        "consistency": 0.61
+    },
+    "Joseph Davis": {
+        "name": "Joseph Davis",
+        "pcr": 2216.993811169924,
+        "perfcap": 0.95,
+        "consistency": 0.66
+    },
+    "John Rice": {
+        "name": "John Rice",
+        "pcr": 2215.6554224850715,
+        "perfcap": 0.99,
+        "consistency": 0.56
+    },
+    "Tammie Mathews": {
+        "name": "Tammie Mathews",
+        "pcr": 2207.3164455588744,
+        "perfcap": 0.94,
+        "consistency": 0.69
+    },
+    "Adam May": {
+        "name": "Adam May",
+        "pcr": 2197.8202723994063,
+        "perfcap": 0.81,
+        "consistency": 0.92
+    },
+    "April Vance": {
+        "name": "April Vance",
+        "pcr": 2192.7780710911056,
+        "perfcap": 0.83,
+        "consistency": 0.89
+    },
+    "Janet Collins": {
+        "name": "Janet Collins",
+        "pcr": 2180.260668659328,
+        "perfcap": 0.99,
+        "consistency": 0.57
+    },
+    "Jason Powers": {
+        "name": "Jason Powers",
+        "pcr": 2171.5539795795885,
+        "perfcap": 0.93,
+        "consistency": 0.67
+    },
+    "Brent Phillips": {
+        "name": "Brent Phillips",
+        "pcr": 2168.34012214658,
+        "perfcap": 0.89,
+        "consistency": 0.77
+    },
+    "Abigail Smith": {
+        "name": "Abigail Smith",
+        "pcr": 2152.0803058225697,
+        "perfcap": 0.83,
+        "consistency": 0.85
+    },
+    "Kristi Boyd MD": {
+        "name": "Kristi Boyd MD",
+        "pcr": 2145.8827599577776,
+        "perfcap": 0.86,
+        "consistency": 0.79
+    },
+    "Brady Shelton": {
+        "name": "Brady Shelton",
+        "pcr": 2145.419606694307,
+        "perfcap": 0.95,
+        "consistency": 0.62
+    },
+    "Jason Rivera": {
+        "name": "Jason Rivera",
+        "pcr": 2140.424453376616,
+        "perfcap": 0.87,
+        "consistency": 0.76
+    },
+    "Marcia Espinoza": {
+        "name": "Marcia Espinoza",
+        "pcr": 2135.6661403332564,
+        "perfcap": 0.92,
+        "consistency": 0.68
+    },
+    "Adrian White": {
+        "name": "Adrian White",
+        "pcr": 2130.6474290988003,
+        "perfcap": 0.84,
+        "consistency": 0.83
+    },
+    "Carrie Crawford": {
+        "name": "Carrie Crawford",
+        "pcr": 2117.52563516893,
+        "perfcap": 0.77,
+        "consistency": 0.96
+    },
+    "Destiny Miller": {
+        "name": "Destiny Miller",
+        "pcr": 2115.8920886626415,
+        "perfcap": 0.91,
+        "consistency": 0.67
+    },
+    "Patrick Garcia": {
+        "name": "Patrick Garcia",
+        "pcr": 2099.5000086613345,
+        "perfcap": 0.96,
+        "consistency": 0.57
+    },
+    "Monica Shaw": {
+        "name": "Monica Shaw",
+        "pcr": 2085.788634608885,
+        "perfcap": 0.86,
+        "consistency": 0.77
+    },
+    "Elijah Jones": {
+        "name": "Elijah Jones",
+        "pcr": 2078.6358969681996,
+        "perfcap": 0.95,
+        "consistency": 0.58
+    },
+    "Nancy Hanson": {
+        "name": "Nancy Hanson",
+        "pcr": 2076.0591209613403,
+        "perfcap": 0.79,
+        "consistency": 0.9
+    },
+    "Jason Hale": {
+        "name": "Jason Hale",
+        "pcr": 2069.037132493756,
+        "perfcap": 0.98,
+        "consistency": 0.57
+    },
+    "Craig Williams": {
+        "name": "Craig Williams",
+        "pcr": 2065.1525317593537,
+        "perfcap": 0.88,
+        "consistency": 0.7
+    },
+    "Penny Wilson": {
+        "name": "Penny Wilson",
+        "pcr": 2061.155531232169,
+        "perfcap": 0.96,
+        "consistency": 0.52
+    },
+    "Amber Parker": {
+        "name": "Amber Parker",
+        "pcr": 2060.4921321248075,
+        "perfcap": 0.87,
+        "consistency": 0.72
+    },
+    "Linda Velazquez": {
+        "name": "Linda Velazquez",
+        "pcr": 2057.4944557190606,
+        "perfcap": 0.83,
+        "consistency": 0.8
+    },
+    "Tracy Parker": {
+        "name": "Tracy Parker",
+        "pcr": 2050.0630559662186,
+        "perfcap": 0.73,
+        "consistency": 1.0
+    },
+    "William Sims": {
+        "name": "William Sims",
+        "pcr": 2039.6690732400791,
+        "perfcap": 0.95,
+        "consistency": 0.57
+    },
+    "Chad Weaver": {
+        "name": "Chad Weaver",
+        "pcr": 2015.8596378987718,
+        "perfcap": 0.72,
+        "consistency": 1.0
+    },
+    "Jill Blevins": {
+        "name": "Jill Blevins",
+        "pcr": 2014.477421498421,
+        "perfcap": 0.85,
+        "consistency": 0.71
+    },
+    "Dawn Pineda": {
+        "name": "Dawn Pineda",
+        "pcr": 2012.4928943567493,
+        "perfcap": 0.76,
+        "consistency": 0.92
+    },
+    "Rebecca Mendez": {
+        "name": "Rebecca Mendez",
+        "pcr": 2009.9529207179805,
+        "perfcap": 0.75,
+        "consistency": 0.94
+    },
+    "Heather Leonard": {
+        "name": "Heather Leonard",
+        "pcr": 2008.0790378661184,
+        "perfcap": 0.85,
+        "consistency": 0.74
+    },
+    "Dr. Daniel Anderson": {
+        "name": "Dr. Daniel Anderson",
+        "pcr": 2004.8923091293632,
+        "perfcap": 0.81,
+        "consistency": 0.82
+    },
+    "Aaron Gross": {
+        "name": "Aaron Gross",
+        "pcr": 1992.427234737193,
+        "perfcap": 0.81,
+        "consistency": 0.8
+    },
+    "Dr. Kimberly Lee": {
+        "name": "Dr. Kimberly Lee",
+        "pcr": 1989.2055505925518,
+        "perfcap": 0.89,
+        "consistency": 0.61
+    },
+    "Donna Rodriguez": {
+        "name": "Donna Rodriguez",
+        "pcr": 1985.6553579121855,
+        "perfcap": 0.82,
+        "consistency": 0.78
+    },
+    "Kathy Wade": {
+        "name": "Kathy Wade",
+        "pcr": 1973.8316765974864,
+        "perfcap": 0.74,
+        "consistency": 0.93
+    },
+    "Juan Fowler": {
+        "name": "Juan Fowler",
+        "pcr": 1961.5544707895058,
+        "perfcap": 0.8,
+        "consistency": 0.82
+    },
+    "Colleen Stevens": {
+        "name": "Colleen Stevens",
+        "pcr": 1959.9272759821104,
+        "perfcap": 0.87,
+        "consistency": 0.68
+    },
+    "Thomas Fowler MD": {
+        "name": "Thomas Fowler MD",
+        "pcr": 1951.3245110722585,
+        "perfcap": 0.96,
+        "consistency": 0.52
+    },
+    "Ryan Johnson": {
+        "name": "Ryan Johnson",
+        "pcr": 1941.5831479221556,
+        "perfcap": 0.86,
+        "consistency": 0.66
+    },
+    "Brandon Flynn": {
+        "name": "Brandon Flynn",
+        "pcr": 1939.5318473275713,
+        "perfcap": 0.83,
+        "consistency": 0.76
+    },
+    "Elizabeth Carroll": {
+        "name": "Elizabeth Carroll",
+        "pcr": 1930.8914053891126,
+        "perfcap": 0.91,
+        "consistency": 0.61
+    },
+    "Kevin Bryant": {
+        "name": "Kevin Bryant",
+        "pcr": 1926.6525590606443,
+        "perfcap": 0.7,
+        "consistency": 0.99
+    },
+    "Laura Lee": {
+        "name": "Laura Lee",
+        "pcr": 1926.2514913496007,
+        "perfcap": 0.76,
+        "consistency": 0.87
+    },
+    "Paige King": {
+        "name": "Paige King",
+        "pcr": 1925.6608815497289,
+        "perfcap": 0.74,
+        "consistency": 0.91
+    },
+    "Cheyenne Adams": {
+        "name": "Cheyenne Adams",
+        "pcr": 1915.7764178625876,
+        "perfcap": 0.73,
+        "consistency": 0.92
+    },
+    "Jonathan Schroeder": {
+        "name": "Jonathan Schroeder",
+        "pcr": 1913.9324877885113,
+        "perfcap": 0.93,
+        "consistency": 0.53
+    },
+    "Melanie Wang": {
+        "name": "Melanie Wang",
+        "pcr": 1908.6979603971083,
+        "perfcap": 0.79,
+        "consistency": 0.8
+    },
+    "Rachel Smith": {
+        "name": "Rachel Smith",
+        "pcr": 1883.2330757227262,
+        "perfcap": 0.79,
+        "consistency": 0.79
+    },
+    "Danielle Rodriguez": {
+        "name": "Danielle Rodriguez",
+        "pcr": 1868.5725907538847,
+        "perfcap": 0.94,
+        "consistency": 0.51
+    },
+    "Mary Mclean": {
+        "name": "Mary Mclean",
+        "pcr": 1863.5073608378964,
+        "perfcap": 0.91,
+        "consistency": 0.52
+    },
+    "Zachary Terry": {
+        "name": "Zachary Terry",
+        "pcr": 1858.1563354222042,
+        "perfcap": 0.85,
+        "consistency": 0.65
+    },
+    "Michelle Fuller": {
+        "name": "Michelle Fuller",
+        "pcr": 1854.6298848665915,
+        "perfcap": 0.69,
+        "consistency": 0.97
+    },
+    "Scott French": {
+        "name": "Scott French",
+        "pcr": 1852.2781641274544,
+        "perfcap": 0.75,
+        "consistency": 0.85
+    },
+    "Christopher Rogers": {
+        "name": "Christopher Rogers",
+        "pcr": 1831.9340617915316,
+        "perfcap": 0.86,
+        "consistency": 0.62
+    },
+    "Jeffrey Moreno": {
+        "name": "Jeffrey Moreno",
+        "pcr": 1825.4275400384447,
+        "perfcap": 0.69,
+        "consistency": 0.95
+    },
+    "Donald Sullivan": {
+        "name": "Donald Sullivan",
+        "pcr": 1816.7282677101143,
+        "perfcap": 0.7,
+        "consistency": 0.93
+    },
+    "Casey Weaver": {
+        "name": "Casey Weaver",
+        "pcr": 1801.0168183411859,
+        "perfcap": 0.73,
+        "consistency": 0.85
+    },
+    "Jennifer James": {
+        "name": "Jennifer James",
+        "pcr": 1797.8843351973956,
+        "perfcap": 0.66,
+        "consistency": 1.0
+    },
+    "Linda Solis": {
+        "name": "Linda Solis",
+        "pcr": 1790.830354085589,
+        "perfcap": 0.83,
+        "consistency": 0.66
+    },
+    "Nicholas Lawson": {
+        "name": "Nicholas Lawson",
+        "pcr": 1783.5628133960302,
+        "perfcap": 0.8,
+        "consistency": 0.72
+    },
+    "Joseph Lamb": {
+        "name": "Joseph Lamb",
+        "pcr": 1782.159319954348,
+        "perfcap": 0.81,
+        "consistency": 0.67
+    },
+    "Jacob Romero": {
+        "name": "Jacob Romero",
+        "pcr": 1775.0225172969367,
+        "perfcap": 0.8,
+        "consistency": 0.72
+    },
+    "Shannon White": {
+        "name": "Shannon White",
+        "pcr": 1762.5626997320887,
+        "perfcap": 0.74,
+        "consistency": 0.83
+    },
+    "Alyssa Pittman": {
+        "name": "Alyssa Pittman",
+        "pcr": 1754.5676429925948,
+        "perfcap": 0.71,
+        "consistency": 0.88
+    },
+    "Heather Calderon": {
+        "name": "Heather Calderon",
+        "pcr": 1754.241142598786,
+        "perfcap": 0.71,
+        "consistency": 0.88
+    },
+    "Briana Nguyen": {
+        "name": "Briana Nguyen",
+        "pcr": 1754.0437449475767,
+        "perfcap": 0.81,
+        "consistency": 0.68
+    },
+    "Sara Woods": {
+        "name": "Sara Woods",
+        "pcr": 1746.2463224333042,
+        "perfcap": 0.72,
+        "consistency": 0.85
+    },
+    "Matthew Taylor": {
+        "name": "Matthew Taylor",
+        "pcr": 1741.8321171870073,
+        "perfcap": 0.69,
+        "consistency": 0.91
+    },
+    "Melissa Hanson": {
+        "name": "Melissa Hanson",
+        "pcr": 1741.7288737701267,
+        "perfcap": 0.65,
+        "consistency": 0.99
+    },
+    "Angela Martin": {
+        "name": "Angela Martin",
+        "pcr": 1733.264617184256,
+        "perfcap": 0.74,
+        "consistency": 0.8
+    },
+    "Jonathan Benitez": {
+        "name": "Jonathan Benitez",
+        "pcr": 1730.8175497153973,
+        "perfcap": 0.7,
+        "consistency": 0.9
+    },
+    "Maria Phillips": {
+        "name": "Maria Phillips",
+        "pcr": 1720.115245834947,
+        "perfcap": 0.67,
+        "consistency": 0.94
+    },
+    "Dr. Keith Morrison": {
+        "name": "Dr. Keith Morrison",
+        "pcr": 1716.796070171653,
+        "perfcap": 0.68,
+        "consistency": 0.92
+    },
+    "Anthony Lewis": {
+        "name": "Anthony Lewis",
+        "pcr": 1715.2620017753968,
+        "perfcap": 0.87,
+        "consistency": 0.54
+    },
+    "Brandon Frost": {
+        "name": "Brandon Frost",
+        "pcr": 1707.5330580645523,
+        "perfcap": 0.86,
+        "consistency": 0.56
+    },
+    "Mrs. Amanda Shaw MD": {
+        "name": "Mrs. Amanda Shaw MD",
+        "pcr": 1706.7179106041037,
+        "perfcap": 0.86,
+        "consistency": 0.54
+    },
+    "Brandon Quinn": {
+        "name": "Brandon Quinn",
+        "pcr": 1703.7515172958672,
+        "perfcap": 0.81,
+        "consistency": 0.6
+    },
+    "Richard Petty": {
+        "name": "Richard Petty",
+        "pcr": 1680.5554910833241,
+        "perfcap": 0.72,
+        "consistency": 0.83
+    },
+    "Cameron Jackson": {
+        "name": "Cameron Jackson",
+        "pcr": 1674.4934308945437,
+        "perfcap": 0.68,
+        "consistency": 0.9
+    },
+    "Christine Lin": {
+        "name": "Christine Lin",
+        "pcr": 1672.2504439029194,
+        "perfcap": 0.69,
+        "consistency": 0.88
+    },
+    "Kevin Mann": {
+        "name": "Kevin Mann",
+        "pcr": 1656.6106380030537,
+        "perfcap": 0.71,
+        "consistency": 0.83
+    },
+    "Brenda Armstrong": {
+        "name": "Brenda Armstrong",
+        "pcr": 1642.1324666124083,
+        "perfcap": 0.65,
+        "consistency": 0.94
+    },
+    "Scott Bolton": {
+        "name": "Scott Bolton",
+        "pcr": 1631.8936301289564,
+        "perfcap": 0.72,
+        "consistency": 0.79
+    },
+    "Shannon Barnes": {
+        "name": "Shannon Barnes",
+        "pcr": 1628.3911268221586,
+        "perfcap": 0.7,
+        "consistency": 0.84
+    },
+    "Maureen Lambert": {
+        "name": "Maureen Lambert",
+        "pcr": 1623.9094867673518,
+        "perfcap": 0.73,
+        "consistency": 0.77
+    },
+    "Timothy Diaz": {
+        "name": "Timothy Diaz",
+        "pcr": 1609.531820705766,
+        "perfcap": 0.64,
+        "consistency": 0.94
+    },
+    "Wesley Robinson": {
+        "name": "Wesley Robinson",
+        "pcr": 1596.9777475559838,
+        "perfcap": 0.68,
+        "consistency": 0.85
+    },
+    "Philip Torres": {
+        "name": "Philip Torres",
+        "pcr": 1594.8389727584204,
+        "perfcap": 0.74,
+        "consistency": 0.73
+    },
+    "Tyler Benjamin": {
+        "name": "Tyler Benjamin",
+        "pcr": 1591.4142330109557,
+        "perfcap": 0.81,
+        "consistency": 0.61
+    },
+    "James Warner": {
+        "name": "James Warner",
+        "pcr": 1586.8153918730466,
+        "perfcap": 0.76,
+        "consistency": 0.69
+    },
+    "Shelly Hanna": {
+        "name": "Shelly Hanna",
+        "pcr": 1585.2044673209675,
+        "perfcap": 0.76,
+        "consistency": 0.68
+    },
+    "Luis Martinez": {
+        "name": "Luis Martinez",
+        "pcr": 1582.4768207785792,
+        "perfcap": 0.82,
+        "consistency": 0.58
+    },
+    "Jose Powers": {
+        "name": "Jose Powers",
+        "pcr": 1560.4204482056482,
+        "perfcap": 0.82,
+        "consistency": 0.58
+    },
+    "Jaime Hughes": {
+        "name": "Jaime Hughes",
+        "pcr": 1544.1443929259613,
+        "perfcap": 0.61,
+        "consistency": 0.97
+    },
+    "Jennifer Williams": {
+        "name": "Jennifer Williams",
+        "pcr": 1537.809800969469,
+        "perfcap": 0.61,
+        "consistency": 0.97
+    },
+    "Ryan Sims": {
+        "name": "Ryan Sims",
+        "pcr": 1532.3286664764928,
+        "perfcap": 0.79,
+        "consistency": 0.59
+    },
+    "Kayla Thomas": {
+        "name": "Kayla Thomas",
+        "pcr": 1516.281153038608,
+        "perfcap": 0.75,
+        "consistency": 0.67
+    },
+    "Chad Williams": {
+        "name": "Chad Williams",
+        "pcr": 1511.705246460938,
+        "perfcap": 0.74,
+        "consistency": 0.69
+    },
+    "Catherine Oliver": {
+        "name": "Catherine Oliver",
+        "pcr": 1506.3192050396601,
+        "perfcap": 0.71,
+        "consistency": 0.74
+    },
+    "Rachel Jennings": {
+        "name": "Rachel Jennings",
+        "pcr": 1505.215397621407,
+        "perfcap": 0.73,
+        "consistency": 0.69
+    },
+    "Justin Bradley": {
+        "name": "Justin Bradley",
+        "pcr": 1503.4952595268087,
+        "perfcap": 0.73,
+        "consistency": 0.7
+    },
+    "Scott Sandoval": {
+        "name": "Scott Sandoval",
+        "pcr": 1503.0149924351367,
+        "perfcap": 0.66,
+        "consistency": 0.85
+    },
+    "Sharon Dunn": {
+        "name": "Sharon Dunn",
+        "pcr": 1501.301969063546,
+        "perfcap": 0.67,
+        "consistency": 0.81
+    },
+    "Jacob Peters": {
+        "name": "Jacob Peters",
+        "pcr": 1486.620173964468,
+        "perfcap": 0.7,
+        "consistency": 0.75
+    },
+    "Brent Robbins": {
+        "name": "Brent Robbins",
+        "pcr": 1481.3355354452813,
+        "perfcap": 0.69,
+        "consistency": 0.77
+    },
+    "Susan Schroeder": {
+        "name": "Susan Schroeder",
+        "pcr": 1471.8105153840172,
+        "perfcap": 0.73,
+        "consistency": 0.7
+    },
+    "Danny Barrett": {
+        "name": "Danny Barrett",
+        "pcr": 1469.588250627894,
+        "perfcap": 0.67,
+        "consistency": 0.79
+    },
+    "Rebecca Duncan": {
+        "name": "Rebecca Duncan",
+        "pcr": 1467.6565859078719,
+        "perfcap": 0.7,
+        "consistency": 0.77
+    },
+    "Nicole White": {
+        "name": "Nicole White",
+        "pcr": 1466.4589210701226,
+        "perfcap": 0.62,
+        "consistency": 0.91
+    },
+    "Stacy Cohen": {
+        "name": "Stacy Cohen",
+        "pcr": 1464.7286835080872,
+        "perfcap": 0.69,
+        "consistency": 0.77
+    },
+    "Jacob Morales": {
+        "name": "Jacob Morales",
+        "pcr": 1463.8043986654334,
+        "perfcap": 0.69,
+        "consistency": 0.76
+    },
+    "Angelica Mcdonald": {
+        "name": "Angelica Mcdonald",
+        "pcr": 1462.9672138794654,
+        "perfcap": 0.75,
+        "consistency": 0.62
+    },
+    "Andrew Joseph": {
+        "name": "Andrew Joseph",
+        "pcr": 1460.6860283029132,
+        "perfcap": 0.63,
+        "consistency": 0.89
+    },
+    "Erica Contreras": {
+        "name": "Erica Contreras",
+        "pcr": 1455.4167957102447,
+        "perfcap": 0.81,
+        "consistency": 0.53
+    },
+    "John Wood": {
+        "name": "John Wood",
+        "pcr": 1445.262601261466,
+        "perfcap": 0.67,
+        "consistency": 0.78
+    },
+    "David Dillon": {
+        "name": "David Dillon",
+        "pcr": 1433.6879771843983,
+        "perfcap": 0.76,
+        "consistency": 0.57
+    },
+    "Charlene Church": {
+        "name": "Charlene Church",
+        "pcr": 1429.8041495916407,
+        "perfcap": 0.7,
+        "consistency": 0.74
+    },
+    "Sandra Bailey": {
+        "name": "Sandra Bailey",
+        "pcr": 1426.4027190004733,
+        "perfcap": 0.72,
+        "consistency": 0.67
+    },
+    "Olivia Stark": {
+        "name": "Olivia Stark",
+        "pcr": 1425.815240492964,
+        "perfcap": 0.66,
+        "consistency": 0.8
+    },
+    "Justin Smith": {
+        "name": "Justin Smith",
+        "pcr": 1425.2536284646228,
+        "perfcap": 0.71,
+        "consistency": 0.7
+    },
+    "Kimberly Jacobs": {
+        "name": "Kimberly Jacobs",
+        "pcr": 1424.6346280189728,
+        "perfcap": 0.63,
+        "consistency": 0.88
+    },
+    "Kelly Duncan": {
+        "name": "Kelly Duncan",
+        "pcr": 1421.4958906063252,
+        "perfcap": 0.8,
+        "consistency": 0.52
+    },
+    "Katelyn White": {
+        "name": "Katelyn White",
+        "pcr": 1417.7920649313396,
+        "perfcap": 0.76,
+        "consistency": 0.59
+    },
+    "Kayla Anderson": {
+        "name": "Kayla Anderson",
+        "pcr": 1404.557483668988,
+        "perfcap": 0.62,
+        "consistency": 0.88
+    },
+    "Meghan Gordon": {
+        "name": "Meghan Gordon",
+        "pcr": 1381.2401295787358,
+        "perfcap": 0.7,
+        "consistency": 0.71
+    },
+    "Andrea Wagner": {
+        "name": "Andrea Wagner",
+        "pcr": 1373.136610668903,
+        "perfcap": 0.59,
+        "consistency": 0.92
+    },
+    "Melissa Steele": {
+        "name": "Melissa Steele",
+        "pcr": 1370.7785095324045,
+        "perfcap": 0.62,
+        "consistency": 0.86
+    },
+    "Ariana King": {
+        "name": "Ariana King",
+        "pcr": 1366.7858595872408,
+        "perfcap": 0.55,
+        "consistency": 1.0
+    },
+    "Andrew Horne": {
+        "name": "Andrew Horne",
+        "pcr": 1348.6300654387574,
+        "perfcap": 0.58,
+        "consistency": 0.93
+    },
+    "Kenneth Eaton": {
+        "name": "Kenneth Eaton",
+        "pcr": 1336.4488711975252,
+        "perfcap": 0.7,
+        "consistency": 0.69
+    },
+    "Kevin Kirk": {
+        "name": "Kevin Kirk",
+        "pcr": 1328.1884070168003,
+        "perfcap": 0.58,
+        "consistency": 0.92
+    },
+    "Brianna Pena": {
+        "name": "Brianna Pena",
+        "pcr": 1313.2420858621738,
+        "perfcap": 0.71,
+        "consistency": 0.65
+    },
+    "Tamara Torres": {
+        "name": "Tamara Torres",
+        "pcr": 1287.916593165689,
+        "perfcap": 0.74,
+        "consistency": 0.56
+    },
+    "Christopher Sellers": {
+        "name": "Christopher Sellers",
+        "pcr": 1258.0424601993982,
+        "perfcap": 0.69,
+        "consistency": 0.67
+    },
+    "Joseph Schroeder": {
+        "name": "Joseph Schroeder",
+        "pcr": 1249.1476091572977,
+        "perfcap": 0.69,
+        "consistency": 0.66
+    },
+    "Jason Hawkins": {
+        "name": "Jason Hawkins",
+        "pcr": 1245.8484369491862,
+        "perfcap": 0.77,
+        "consistency": 0.52
+    },
+    "Ashley Jones": {
+        "name": "Ashley Jones",
+        "pcr": 1233.0971680869409,
+        "perfcap": 0.58,
+        "consistency": 0.87
+    },
+    "Steven Harmon": {
+        "name": "Steven Harmon",
+        "pcr": 1232.764987246901,
+        "perfcap": 0.74,
+        "consistency": 0.54
+    },
+    "John Turner": {
+        "name": "John Turner",
+        "pcr": 1220.8725063597858,
+        "perfcap": 0.75,
+        "consistency": 0.54
+    },
+    "Travis Hart": {
+        "name": "Travis Hart",
+        "pcr": 1208.3053089282853,
+        "perfcap": 0.69,
+        "consistency": 0.64
+    },
+    "Stephanie Sheppard": {
+        "name": "Stephanie Sheppard",
+        "pcr": 1200.1428070822406,
+        "perfcap": 0.54,
+        "consistency": 0.93
+    },
+    "Paul Zamora": {
+        "name": "Paul Zamora",
+        "pcr": 1195.819817939838,
+        "perfcap": 0.64,
+        "consistency": 0.73
+    },
+    "Travis Sanchez": {
+        "name": "Travis Sanchez",
+        "pcr": 1191.614259293461,
+        "perfcap": 0.6,
+        "consistency": 0.81
+    },
+    "Jill Erickson": {
+        "name": "Jill Erickson",
+        "pcr": 1184.4764406965442,
+        "perfcap": 0.57,
+        "consistency": 0.87
+    },
+    "Darlene Peters": {
+        "name": "Darlene Peters",
+        "pcr": 1180.3525366071567,
+        "perfcap": 0.55,
+        "consistency": 0.9
+    },
+    "Pamela Long": {
+        "name": "Pamela Long",
+        "pcr": 1176.217991020464,
+        "perfcap": 0.5,
+        "consistency": 1.0
+    },
+    "Shannon Hopkins": {
+        "name": "Shannon Hopkins",
+        "pcr": 1155.2001732972733,
+        "perfcap": 0.71,
+        "consistency": 0.58
+    },
+    "Jennifer Hampton": {
+        "name": "Jennifer Hampton",
+        "pcr": 1152.8783925037217,
+        "perfcap": 0.59,
+        "consistency": 0.8
+    },
+    "Stacy Vega": {
+        "name": "Stacy Vega",
+        "pcr": 1145.4370107295515,
+        "perfcap": 0.56,
+        "consistency": 0.87
+    },
+    "Jenna Simpson": {
+        "name": "Jenna Simpson",
+        "pcr": 1142.125071100459,
+        "perfcap": 0.52,
+        "consistency": 0.94
+    },
+    "Jessica Little": {
+        "name": "Jessica Little",
+        "pcr": 1124.517619104248,
+        "perfcap": 0.68,
+        "consistency": 0.64
+    },
+    "Allison Kim": {
+        "name": "Allison Kim",
+        "pcr": 1120.7935303785048,
+        "perfcap": 0.66,
+        "consistency": 0.67
+    },
+    "David Willis": {
+        "name": "David Willis",
+        "pcr": 1120.2125314886628,
+        "perfcap": 0.68,
+        "consistency": 0.62
+    },
+    "Jennifer Cummings": {
+        "name": "Jennifer Cummings",
+        "pcr": 1117.4064516155995,
+        "perfcap": 0.56,
+        "consistency": 0.84
+    },
+    "Marc Powell": {
+        "name": "Marc Powell",
+        "pcr": 1107.436625589159,
+        "perfcap": 0.66,
+        "consistency": 0.63
+    },
+    "Paul Reynolds": {
+        "name": "Paul Reynolds",
+        "pcr": 1104.420411173347,
+        "perfcap": 0.64,
+        "consistency": 0.68
+    },
+    "Rhonda Burke": {
+        "name": "Rhonda Burke",
+        "pcr": 1102.7743402631475,
+        "perfcap": 0.71,
+        "consistency": 0.55
+    },
+    "Erin Wilkins": {
+        "name": "Erin Wilkins",
+        "pcr": 1090.9696903104045,
+        "perfcap": 0.66,
+        "consistency": 0.6
+    },
+    "David Parker": {
+        "name": "David Parker",
+        "pcr": 1090.0424597742604,
+        "perfcap": 0.51,
+        "consistency": 0.93
+    },
+    "David Hill": {
+        "name": "David Hill",
+        "pcr": 1080.1175054697783,
+        "perfcap": 0.56,
+        "consistency": 0.81
+    },
+    "Katherine Mosley": {
+        "name": "Katherine Mosley",
+        "pcr": 1058.9340107300407,
+        "perfcap": 0.54,
+        "consistency": 0.86
+    },
+    "James Garcia": {
+        "name": "James Garcia",
+        "pcr": 1052.7713790240114,
+        "perfcap": 0.67,
+        "consistency": 0.61
+    },
+    "Mark Martinez": {
+        "name": "Mark Martinez",
+        "pcr": 1049.9167171086267,
+        "perfcap": 0.47,
+        "consistency": 0.99
+    },
+    "Gregory Torres": {
+        "name": "Gregory Torres",
+        "pcr": 1049.4059381863374,
+        "perfcap": 0.63,
+        "consistency": 0.66
+    },
+    "Matthew Mcpherson": {
+        "name": "Matthew Mcpherson",
+        "pcr": 1021.6143802086947,
+        "perfcap": 0.54,
+        "consistency": 0.83
+    },
+    "Ashley Medina": {
+        "name": "Ashley Medina",
+        "pcr": 1007.9737258169026,
+        "perfcap": 0.68,
+        "consistency": 0.54
+    },
+    "Dean Barker": {
+        "name": "Dean Barker",
+        "pcr": 1003.5441976350411,
+        "perfcap": 0.47,
+        "consistency": 0.96
+    },
+    "Jesse Hernandez": {
+        "name": "Jesse Hernandez",
+        "pcr": 992.069128173738,
+        "perfcap": 0.5,
+        "consistency": 0.9
+    },
+    "Nicole Soto": {
+        "name": "Nicole Soto",
+        "pcr": 983.3093268950389,
+        "perfcap": 0.47,
+        "consistency": 0.95
+    },
+    "Connor Roberts": {
+        "name": "Connor Roberts",
+        "pcr": 967.4874133604612,
+        "perfcap": 0.56,
+        "consistency": 0.76
+    },
+    "Dr. Rachel Howard": {
+        "name": "Dr. Rachel Howard",
+        "pcr": 963.5773462432295,
+        "perfcap": 0.45,
+        "consistency": 0.98
+    },
+    "Beth Miller": {
+        "name": "Beth Miller",
+        "pcr": 959.4855708776054,
+        "perfcap": 0.59,
+        "consistency": 0.68
+    },
+    "Alexandra King": {
+        "name": "Alexandra King",
+        "pcr": 958.9443645885126,
+        "perfcap": 0.58,
+        "consistency": 0.71
+    },
+    "Lawrence Schneider": {
+        "name": "Lawrence Schneider",
+        "pcr": 956.6327112472968,
+        "perfcap": 0.59,
+        "consistency": 0.69
+    },
+    "Amanda Nielsen": {
+        "name": "Amanda Nielsen",
+        "pcr": 950.7977800589856,
+        "perfcap": 0.59,
+        "consistency": 0.68
+    },
+    "Barbara Wise": {
+        "name": "Barbara Wise",
+        "pcr": 945.4995249010998,
+        "perfcap": 0.68,
+        "consistency": 0.52
+    },
+    "Matthew Williams": {
+        "name": "Matthew Williams",
+        "pcr": 930.2859769911013,
+        "perfcap": 0.69,
+        "consistency": 0.53
+    },
+    "Micheal Castillo": {
+        "name": "Micheal Castillo",
+        "pcr": 912.4030343603275,
+        "perfcap": 0.57,
+        "consistency": 0.7
+    },
+    "Eric Norman": {
+        "name": "Eric Norman",
+        "pcr": 902.1122909386967,
+        "perfcap": 0.44,
+        "consistency": 0.96
+    },
+    "Cory Bush": {
+        "name": "Cory Bush",
+        "pcr": 899.9879701439801,
+        "perfcap": 0.51,
+        "consistency": 0.82
+    },
+    "Annette Morgan": {
+        "name": "Annette Morgan",
+        "pcr": 898.6452010648691,
+        "perfcap": 0.43,
+        "consistency": 0.98
+    },
+    "Sherry Greene": {
+        "name": "Sherry Greene",
+        "pcr": 896.3997721777986,
+        "perfcap": 0.54,
+        "consistency": 0.76
+    },
+    "Mark Dawson": {
+        "name": "Mark Dawson",
+        "pcr": 888.9743083116375,
+        "perfcap": 0.55,
+        "consistency": 0.72
+    },
+    "Thomas Garcia": {
+        "name": "Thomas Garcia",
+        "pcr": 888.5330245626955,
+        "perfcap": 0.46,
+        "consistency": 0.91
+    },
+    "Joseph Hansen": {
+        "name": "Joseph Hansen",
+        "pcr": 885.2190135508898,
+        "perfcap": 0.43,
+        "consistency": 0.97
+    },
+    "Donna Manning": {
+        "name": "Donna Manning",
+        "pcr": 878.9717801386997,
+        "perfcap": 0.57,
+        "consistency": 0.69
+    },
+    "Alex Peterson": {
+        "name": "Alex Peterson",
+        "pcr": 868.3896371353355,
+        "perfcap": 0.61,
+        "consistency": 0.57
+    },
+    "Christopher Torres": {
+        "name": "Christopher Torres",
+        "pcr": 868.3615742037903,
+        "perfcap": 0.58,
+        "consistency": 0.67
+    },
+    "James English": {
+        "name": "James English",
+        "pcr": 865.9981128224152,
+        "perfcap": 0.49,
+        "consistency": 0.84
+    },
+    "Ian Martinez": {
+        "name": "Ian Martinez",
+        "pcr": 865.7407359002502,
+        "perfcap": 0.44,
+        "consistency": 0.94
+    },
+    "Shannon Gentry": {
+        "name": "Shannon Gentry",
+        "pcr": 865.163944555653,
+        "perfcap": 0.51,
+        "consistency": 0.8
+    },
+    "Christopher Garcia": {
+        "name": "Christopher Garcia",
+        "pcr": 862.1156355960504,
+        "perfcap": 0.42,
+        "consistency": 0.98
+    },
+    "Brenda Rose": {
+        "name": "Brenda Rose",
+        "pcr": 857.3388640267974,
+        "perfcap": 0.65,
+        "consistency": 0.5
+    },
+    "Jeffrey Johnson": {
+        "name": "Jeffrey Johnson",
+        "pcr": 840.1311482695406,
+        "perfcap": 0.62,
+        "consistency": 0.52
+    },
+    "Amber Salinas": {
+        "name": "Amber Salinas",
+        "pcr": 827.7204115620278,
+        "perfcap": 0.44,
+        "consistency": 0.91
+    },
+    "Lisa Owens": {
+        "name": "Lisa Owens",
+        "pcr": 826.3531756934885,
+        "perfcap": 0.6,
+        "consistency": 0.59
+    },
+    "Monica Gray": {
+        "name": "Monica Gray",
+        "pcr": 824.3337475589778,
+        "perfcap": 0.42,
+        "consistency": 0.95
+    },
+    "Ashley Walker": {
+        "name": "Ashley Walker",
+        "pcr": 821.2095677425837,
+        "perfcap": 0.64,
+        "consistency": 0.55
+    },
+    "Tammy Fisher DDS": {
+        "name": "Tammy Fisher DDS",
+        "pcr": 819.0232393585342,
+        "perfcap": 0.4,
+        "consistency": 0.99
+    },
+    "Antonio Ramirez": {
+        "name": "Antonio Ramirez",
+        "pcr": 796.7575026367397,
+        "perfcap": 0.54,
+        "consistency": 0.71
+    },
+    "Tiffany Steele": {
+        "name": "Tiffany Steele",
+        "pcr": 793.8854194978256,
+        "perfcap": 0.46,
+        "consistency": 0.84
+    },
+    "Ana Sanchez": {
+        "name": "Ana Sanchez",
+        "pcr": 790.6567032388607,
+        "perfcap": 0.4,
+        "consistency": 0.97
+    },
+    "Mikayla Watson MD": {
+        "name": "Mikayla Watson MD",
+        "pcr": 787.6390739726861,
+        "perfcap": 0.42,
+        "consistency": 0.93
+    },
+    "Antonio Kim": {
+        "name": "Antonio Kim",
+        "pcr": 772.0973611840177,
+        "perfcap": 0.5,
+        "consistency": 0.76
+    },
+    "Brian Fleming": {
+        "name": "Brian Fleming",
+        "pcr": 764.9064122629331,
+        "perfcap": 0.59,
+        "consistency": 0.56
+    },
+    "Stacey Jenkins": {
+        "name": "Stacey Jenkins",
+        "pcr": 748.4033913633951,
+        "perfcap": 0.57,
+        "consistency": 0.61
+    },
+    "Rhonda Guerrero": {
+        "name": "Rhonda Guerrero",
+        "pcr": 744.3039430428414,
+        "perfcap": 0.54,
+        "consistency": 0.66
+    },
+    "Daniel Edwards": {
+        "name": "Daniel Edwards",
+        "pcr": 731.0833736844802,
+        "perfcap": 0.4,
+        "consistency": 0.93
+    },
+    "Wanda Valenzuela": {
+        "name": "Wanda Valenzuela",
+        "pcr": 723.6940872682197,
+        "perfcap": 0.45,
+        "consistency": 0.83
+    },
+    "Daniel Crawford DDS": {
+        "name": "Daniel Crawford DDS",
+        "pcr": 722.9600461040224,
+        "perfcap": 0.43,
+        "consistency": 0.87
+    },
+    "Gregory Henderson": {
+        "name": "Gregory Henderson",
+        "pcr": 714.1018046311483,
+        "perfcap": 0.4,
+        "consistency": 0.92
+    },
+    "Geoffrey Greene II": {
+        "name": "Geoffrey Greene II",
+        "pcr": 704.6423330848925,
+        "perfcap": 0.5,
+        "consistency": 0.71
+    },
+    "Mary Thompson": {
+        "name": "Mary Thompson",
+        "pcr": 694.6016254719873,
+        "perfcap": 0.52,
+        "consistency": 0.69
+    },
+    "Philip Brown": {
+        "name": "Philip Brown",
+        "pcr": 686.2089134802519,
+        "perfcap": 0.4,
+        "consistency": 0.9
+    },
+    "Robert Joyce": {
+        "name": "Robert Joyce",
+        "pcr": 669.6907391214003,
+        "perfcap": 0.57,
+        "consistency": 0.56
+    },
+    "Misty Vargas": {
+        "name": "Misty Vargas",
+        "pcr": 657.6953320901409,
+        "perfcap": 0.42,
+        "consistency": 0.84
+    },
+    "Kara Rogers": {
+        "name": "Kara Rogers",
+        "pcr": 650.8187165161337,
+        "perfcap": 0.47,
+        "consistency": 0.73
+    },
+    "Jaime Kline": {
+        "name": "Jaime Kline",
+        "pcr": 650.5922862676971,
+        "perfcap": 0.46,
+        "consistency": 0.76
+    },
+    "Dustin Herrera": {
+        "name": "Dustin Herrera",
+        "pcr": 646.7464934589121,
+        "perfcap": 0.48,
+        "consistency": 0.71
+    },
+    "Christina Ferrell": {
+        "name": "Christina Ferrell",
+        "pcr": 643.217666736404,
+        "perfcap": 0.42,
+        "consistency": 0.83
+    },
+    "Richard Browning": {
+        "name": "Richard Browning",
+        "pcr": 641.9914309274358,
+        "perfcap": 0.41,
+        "consistency": 0.85
+    },
+    "Nicole Le": {
+        "name": "Nicole Le",
+        "pcr": 633.4774649084923,
+        "perfcap": 0.56,
+        "consistency": 0.5
+    },
+    "Amanda Rivera": {
+        "name": "Amanda Rivera",
+        "pcr": 626.9217809904435,
+        "perfcap": 0.53,
+        "consistency": 0.61
+    },
+    "Jamie Horton": {
+        "name": "Jamie Horton",
+        "pcr": 617.4974854941244,
+        "perfcap": 0.53,
+        "consistency": 0.55
+    },
+    "Christopher Kent": {
+        "name": "Christopher Kent",
+        "pcr": 612.6090063606815,
+        "perfcap": 0.53,
+        "consistency": 0.59
+    },
+    "Kevin Huff": {
+        "name": "Kevin Huff",
+        "pcr": 595.6612290022687,
+        "perfcap": 0.41,
+        "consistency": 0.8
+    },
+    "Michelle Williams": {
+        "name": "Michelle Williams",
+        "pcr": 593.0126827598014,
+        "perfcap": 0.51,
+        "consistency": 0.6
+    },
+    "Kellie Prince": {
+        "name": "Kellie Prince",
+        "pcr": 572.8436630990105,
+        "perfcap": 0.46,
+        "consistency": 0.67
+    },
+    "Gary Jones": {
+        "name": "Gary Jones",
+        "pcr": 572.4834076037961,
+        "perfcap": 0.42,
+        "consistency": 0.78
+    },
+    "Nicole Johnson": {
+        "name": "Nicole Johnson",
+        "pcr": 556.4178591606391,
+        "perfcap": 0.42,
+        "consistency": 0.76
+    },
+    "James Campbell": {
+        "name": "James Campbell",
+        "pcr": 543.5971866690539,
+        "perfcap": 0.4,
+        "consistency": 0.77
+    },
+    "Michael Patterson": {
+        "name": "Michael Patterson",
+        "pcr": 529.0389875613461,
+        "perfcap": 0.4,
+        "consistency": 0.76
+    },
+    "William Espinoza": {
+        "name": "William Espinoza",
+        "pcr": 529.0240291873553,
+        "perfcap": 0.48,
+        "consistency": 0.64
+    },
+    "Reginald Shepard": {
+        "name": "Reginald Shepard",
+        "pcr": 524.0358059526196,
+        "perfcap": 0.43,
+        "consistency": 0.72
+    },
+    "Jessica Nixon": {
+        "name": "Jessica Nixon",
+        "pcr": 514.439753346263,
+        "perfcap": 0.54,
+        "consistency": 0.51
+    },
+    "Steve Webb": {
+        "name": "Steve Webb",
+        "pcr": 514.3641245055267,
+        "perfcap": 0.46,
+        "consistency": 0.65
+    },
+    "Nathaniel Branch": {
+        "name": "Nathaniel Branch",
+        "pcr": 494.6777105961407,
+        "perfcap": 0.4,
+        "consistency": 0.73
+    },
+    "Raymond Caldwell": {
+        "name": "Raymond Caldwell",
+        "pcr": 479.3526615450949,
+        "perfcap": 0.41,
+        "consistency": 0.74
+    },
+    "Stephanie Rivera": {
+        "name": "Stephanie Rivera",
+        "pcr": 449.37885123166785,
+        "perfcap": 0.42,
+        "consistency": 0.68
+    },
+    "Taylor Donaldson": {
+        "name": "Taylor Donaldson",
+        "pcr": 444.0423703398507,
+        "perfcap": 0.43,
+        "consistency": 0.63
+    },
+    "Stephanie Gonzalez": {
+        "name": "Stephanie Gonzalez",
+        "pcr": 435.8038293610597,
+        "perfcap": 0.5,
+        "consistency": 0.52
+    },
+    "Kimberly Collins": {
+        "name": "Kimberly Collins",
+        "pcr": 432.2545964205293,
+        "perfcap": 0.41,
+        "consistency": 0.66
+    },
+    "Donna Sutton": {
+        "name": "Donna Sutton",
+        "pcr": 432.14145509715337,
+        "perfcap": 0.47,
+        "consistency": 0.56
+    },
+    "Charles Cortez": {
+        "name": "Charles Cortez",
+        "pcr": 399.1372546154817,
+        "perfcap": 0.45,
+        "consistency": 0.57
+    },
+    "Amanda Barnes": {
+        "name": "Amanda Barnes",
+        "pcr": 384.0159042522587,
+        "perfcap": 0.4,
+        "consistency": 0.62
+    },
+    "Christopher Coleman": {
+        "name": "Christopher Coleman",
+        "pcr": 373.1893032651551,
+        "perfcap": 0.47,
+        "consistency": 0.53
+    },
+    "Joshua Taylor": {
+        "name": "Joshua Taylor",
+        "pcr": 366.7525324599127,
+        "perfcap": 0.42,
+        "consistency": 0.56
+    },
+    "Jared Nelson": {
+        "name": "Jared Nelson",
+        "pcr": 357.50938512827247,
+        "perfcap": 0.44,
+        "consistency": 0.54
+    },
+    "Charles Gomez": {
+        "name": "Charles Gomez",
+        "pcr": 316.1273297942584,
+        "perfcap": 0.4,
+        "consistency": 0.55
+    },
+    "Amanda Bright": {
+        "name": "Amanda Bright",
+        "pcr": 277.9584025821208,
+        "perfcap": 0.4,
+        "consistency": 0.5
+    }
+}

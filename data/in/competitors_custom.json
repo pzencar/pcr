@@ -1,0 +1,38 @@
+{
+    "Best1": {
+        "name": "Best1",
+        "pcr": 1500,
+        "perfcap": 1.0,
+        "consistency": 1.0
+    },
+    "Best2": {
+        "name": "Best2",
+        "pcr": 1500,
+        "perfcap": 1.0,
+        "consistency": 0.95
+    },
+    "Best3": {
+        "name": "Best3",
+        "pcr": 1500,
+        "perfcap": 1.0,
+        "consistency": 0.5
+    },
+    "Best4": {
+        "name": "Best4",
+        "pcr": 1500,
+        "perfcap": 0.95,
+        "consistency": 0.75
+    },
+    "Best5": {
+        "name": "Best5",
+        "pcr": 1500,
+        "perfcap": 0.98,
+        "consistency": 0.48
+    },
+    "Best6": {
+        "name": "Best6",
+        "pcr": 1500,
+        "perfcap": 0.1,
+        "consistency": 0
+    }
+}
