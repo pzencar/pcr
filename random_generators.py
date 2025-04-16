@@ -4,20 +4,20 @@ import json
 
 
 class CompetitorGenerator:
-    def __init__(self):
+    def __init__(self, ):
         self.faker = faker.Faker()
         self.competitors = {}
 
-    def generate(self, no_competitors):
+    def generate(self, no_competitors, initial_pcr=1500, perfcap_range=(40, 100), consistency_range=(50, 100)):
         for _ in range(no_competitors):
             name = self.faker.name()
 
             while name in self.competitors:
                 name = self.faker.name()
 
-            pcr = 1500
-            perfcap = random.randint(40, 100) / 100
-            consistency = random.randint(50, 100) / 100
+            pcr = initial_pcr
+            perfcap = random.randint(perfcap_range[0], perfcap_range[1]) / 100
+            consistency = random.randint(consistency_range[0], consistency_range[1]) / 100
 
             self.competitors[name] = {
                 'name': name,

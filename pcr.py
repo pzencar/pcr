@@ -3,9 +3,19 @@ import pprint
 import json
 import copy
 
-###################lvl 0    1  2  3    4     5
-MATCH_LEVEL_FACTORS = [0, 0.5, 0, 1, 1.5, 1.75]
+###################lvl 0  1  2  3   4   5
+MATCH_LEVEL_FACTORS = [0, 1, 3, 5, 10, 15]
 EMPIRIC_PCR_DIV_FACTOR = 1000000
+'''
+PCR difference value for pcr_diff_factor calculation at which the current shooter will
+not gain or lose PCR in comparison to the other shooter. For 2 situations:
+
+1. [pcr_diff = FACTOR_TRESHOLD] (current shooter is stronger) and current shooter won by any margin -> No PCR change
+2. [pcr_diff = -FACTOR_TRESHOLD] (current shooter is weaker) and current shooter lost by any margin -> No PCR change
+'''
+FACTOR_TRESHOLD = 1500
+IN_FOLDER = 'data/out/2025/'
+OUT_FOLDER = 'data/out/2025_adjusted/'
 
 
 class PCR:
@@ -53,14 +63,11 @@ class PCR:
             data['pcr_diff'] = total_pcr_adjust
             data['competitor']['pcr'] += total_pcr_adjust
 
-
     def calculate_pcr_diff_linear(self, perc_diff, pcr_diff):
         # + perc_diff = I am winning
         # - perc_diff = I am losing
         # + pcr_diff = I have more PCR
         # - pcr_diff = I have less PCR
-
-        FACTOR_TRESHOLD = 1500
 
         if perc_diff >= 0:
             pcr_diff_factor = FACTOR_TRESHOLD - pcr_diff
@@ -68,7 +75,6 @@ class PCR:
             pcr_diff_factor = FACTOR_TRESHOLD + pcr_diff
 
         pcr_diff_factor = pcr_diff_factor if pcr_diff_factor >= 0 else 0
-
 
         return (perc_diff * 100) * pcr_diff_factor / EMPIRIC_PCR_DIV_FACTOR * MATCH_LEVEL_FACTORS[self.level]
 
@@ -91,7 +97,6 @@ class PCR:
         pcr_diff_factor = pcr_diff_factor if pcr_diff_factor >= 0 else 0
 
         return (perc_diff * 100) * pcr_diff_factor / EMPIRIC_PCR_DIV_FACTOR * MATCH_LEVEL_FACTORS[self.level]
-
 
     def copy_pcr_values(self, source, dest):
         for place, data in dest.items():
@@ -134,7 +139,7 @@ if __name__ == '__main__':
 
     matches = []
 
-    for root, subfolders, files in os.walk('data/out/2025/'):
+    for root, subfolders, files in os.walk(IN_FOLDER):
         for file in files:
             match_filename = f'{root}{file}'
 
@@ -154,8 +159,8 @@ if __name__ == '__main__':
             # All matches will be evaluated in order. Only needed to update ONE next match
             pcr.copy_match_final_pcr(matches[idx + 1])
 
-        pcr.save_data(f'data/out/2025_adjusted/{match["match_data"]["name"]}.json')
+        pcr.save_data(f'{OUT_FOLDER}/{match["match_data"]["name"]}.json')
 
     # Get final competitor results from the last match
-    competitors = pcr.extract_final_competitors('data/out/2025_adjusted/competitors.json')
+    competitors = pcr.extract_final_competitors(f'{OUT_FOLDER}/competitors.json')
     pprint.pp(competitors)
