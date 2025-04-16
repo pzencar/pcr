@@ -1,0 +1,5 @@
+faker
+numpy
+matplotlib
+pprint
+json
